@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "kTgP/2YIocgyuxedHOGqP5ObY30zicq0waAhGjJCTgXt6u4NzwyTqJ0xwcZH6qJ8byZ3/BDNunCejX+o2dAyhA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jd0919889\\OneDrive - Ozarks Technical Community College\\C# Programs\\inThe(Random)CastleOfTheKing\\inThe(Random)CastleOfTheKing\\inThe(Random)CastleOfTheKing.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jd0919889\\.nuget\\packages\\microsoft.netcore.app\\2.1.0\\microsoft.netcore.app.2.1.0.nupkg.sha512",
+    "C:\\Users\\jd0919889\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.1.0\\microsoft.netcore.dotnetapphost.2.1.0.nupkg.sha512",
+    "C:\\Users\\jd0919889\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.1.0\\microsoft.netcore.dotnethostpolicy.2.1.0.nupkg.sha512",
+    "C:\\Users\\jd0919889\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.1.0\\microsoft.netcore.dotnethostresolver.2.1.0.nupkg.sha512",
+    "C:\\Users\\jd0919889\\.nuget\\packages\\microsoft.netcore.platforms\\2.1.0\\microsoft.netcore.platforms.2.1.0.nupkg.sha512",
+    "C:\\Users\\jd0919889\\.nuget\\packages\\microsoft.netcore.targets\\2.1.0\\microsoft.netcore.targets.2.1.0.nupkg.sha512",
+    "C:\\Users\\jd0919889\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
